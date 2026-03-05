@@ -1,5 +1,9 @@
 # ITCS 6100 Midterm Project Spring 2026
 
+<p style="color: #d73a49; font-weight: bold; font-size: 1.1em; border-left: 4px solid #d73a49; padding-left: 10px;">
+  🚨 IMPORTANT NOTE: A separate public repository was created for this submission because the GitHub Classroom link shared in the email did not grant write access to push files.
+</p>
+
 ## Repository Structure
 
 The project files for Group 8 are located in the `Project Group 8` folder, which contains:
