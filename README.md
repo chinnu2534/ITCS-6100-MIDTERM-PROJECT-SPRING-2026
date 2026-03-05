@@ -1,6 +1,6 @@
 # ITCS 6100 Midterm Project Spring 2026
 
-<p style="color: #b8860b; font-weight: bold; font-size: 1.1em; border-left: 4px solid #b8860b; padding-left: 10px;">
+<p style="color: #FFD700; font-weight: bold; font-size: 1.1em; border-left: 4px solid #FFD700; background-color: rgba(255, 215, 0, 0.1); padding: 10px;">
   🚨 IMPORTANT NOTE: A separate public repository was created for this submission because the GitHub Classroom link shared in the email did not grant write access to push files.
 </p>
 
