@@ -6,6 +6,7 @@ The project files for Group 8 are located in the `Project Group 8` folder, which
 
 *   **`COLAB FILE/`**: Contains the main Jupyter Notebook/Colab file (`PROJECT GROUP 8 COLAB FILE.ipynb`) with all the code, analysis, and output generation.
 *   **`OUTPUT IMAGES/`**: Contains all 5 high-resolution exported visualizations (`ANALYSIS IMAGE 1.png` through `ANALYSIS IMAGE 5.png`) generated from the analysis.
+*   **`ZOOM SCREENSHOTS/`**: Contains screenshots serving as proof of work for our Zoom group collaboration.
 
 ## Note to Grader / TA regarding PDF Submission
 
